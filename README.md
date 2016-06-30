@@ -1,4 +1,4 @@
-# Coffee
+# Coffee Beans
 
 Here's some stuff by Will.
 
